@@ -1,4 +1,2 @@
-school.pub
-.school.swo
-.school.swp
-school
+credentials/
+credentials/*
